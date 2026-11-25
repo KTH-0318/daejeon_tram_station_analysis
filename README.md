@@ -4,7 +4,7 @@
 **네트워크 중심성(서울 2호선 벤치마킹) → KMeans 군집 → 시나리오 분석 → TOPSIS → GIS 접근성 등급**을
 하나의 의사결정 파이프라인으로 엮어 정거장 우선순위와 신규 정거장 후보 입지를 제안한 공간 분석 프로젝트.
 
-스마트시티 문제 해결 프로젝트(교내 전공) · 3인 팀
+스마트시티 문제 해결 프로젝트(교내 전공) · 3인 팀(조장) · 데이터 수집 · 공간 전처리 · 군집 · TOPSIS · 지도 담당
 
 **프로젝트 상세 → [Notion 포트폴리오](https://zany-meeting-aba.notion.site/38983f9aaedb8016a9e6db9b074b70e8)**
 **발표 자료 → [Google Drive](https://drive.google.com/drive/folders/11TRbCkl33ovVytausQjdTL3F5G97raxU)**
